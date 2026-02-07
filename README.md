@@ -13,7 +13,7 @@ The goal was to replicate a modern dark-themed SaaS product landing page and imp
 
 ## Live URL
 
-[Add your live link here]
+https://siddhiideshmukh.github.io/mintlify-landing-page/
 
 Tip: Use 100% browser zoom for best layout.
 
