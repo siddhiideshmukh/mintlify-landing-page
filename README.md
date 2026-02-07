@@ -1,13 +1,11 @@
-# Cursor Landing Page
+# Mintlify Landing Page
 
-Frontend landing page clone inspired by Cursor.
+Peer-review assignment for ChaiCode Cohort 2026 as part of learning HTML & CSS.
 
-Built as part of ChaiCode Cohort 2026 to practice HTML & CSS fundamentals.
-
-This project is created purely using vanilla HTML5 and CSS3.  
+This project is a frontend clone of the Mintlify marketing website built purely using HTML5 and vanilla CSS.  
 No frameworks, libraries, or JavaScript are used.
 
-The goal was to replicate a modern dark-themed SaaS product landing page and improve layout, spacing, typography, and grid skills.
+The goal of this project was to practice layout building using Flexbox, Grid, spacing, typography, and modern landing page design.
 
 ---
 
@@ -15,7 +13,7 @@ The goal was to replicate a modern dark-themed SaaS product landing page and imp
 
 https://siddhiideshmukh.github.io/mintlify-landing-page/
 
-Tip: Use 100% browser zoom for best layout.
+Tip: For the best viewing experience, open the site at 100% browser zoom.
 
 ---
 
@@ -25,25 +23,20 @@ Tip: Use 100% browser zoom for best layout.
 - CSS3 (Vanilla)
 - Flexbox
 - CSS Grid
-- Images / SVG assets
-
-No JavaScript or frameworks used.
+- SVG / Images / Videos
 
 ---
 
 ## Sections Implemented
 
-- Navigation bar (logo, links, buttons)
-- Hero section with headline + download CTA
-- Trusted brands logo grid
-- Feature sections with text + images
-- Testimonials / quotes cards
-- Use cases cards
-- Changelog section
-- Team introduction
-- Highlights / blog posts
-- Final CTA
-- Footer with multiple link columns
+- Header / Navigation
+- Hero section with CTA
+- Trusted brand logos
+- Feature highlight cards with videos
+- Enterprise section
+- Customer case studies carousel
+- Final call-to-action
+- Footer with links and social icons
 
 ---
 
@@ -51,91 +44,52 @@ No JavaScript or frameworks used.
 
 System font stack:
 
-system-ui, -apple-system, BlinkMacSystemFont,  
-Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif
+system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif
+
+Monospace used for small labels like NEW, AGENT, ENTERPRISE.
 
 ---
 
 ## Colors
 
-Main colors used:
+Defined inside styles.css.
 
-- Background: #13120A
-- Card Background: #1b1913
-- Text: #EDECEC
-- Muted Text: #555555 / gray
-- Accent (links/CTA): orangered
-- Borders: #24241d / #2a2923
+Main colors include:
+
+- White: #FFFFFF
+- Black/Dark: #08090A
+- Green Accent: #3F8A62
+- Light Gray: #F8F8F8
+- Card Borders: #EEEEEE
+- Muted Text: #595d60 / #807d7d / #808081
 
 ---
 
 ## Project Structure
-
 ```
-Cursor Landing Page/
+Mintlify Landing Page/
 │
 ├── index.html
-├── style.css
+├── styles.css
 ├── README.md
-│
 └── assets/
-├── navbar/
-├── hero-section/
-├── logos/
-├── features/
-├── founders/
-├── use-cases/
-└── team/
+    ├── hero.svg
+    ├── Logos/
+    ├── Features/
+    ├── case-study/
+    └── card-img/
 ```
 ---
 
 ## How to Run Locally
 
-Option 1:
-Open index.html directly in your browser.
+1. Clone or download the project
+2. Open index.html in your browser
 
-Option 2 (recommended):
-Use VS Code Live Server
+OR
 
-Steps:
-1. Install Live Server extension
-2. Right-click index.html
-3. Open with Live Server
-
----
-
-## Features
-
-- Dark modern UI
-- Flexbox + Grid layouts
-- Responsive section structure
-- Card-based design
-- Testimonials grid
-- Multi-column footer
-- Beginner-friendly code
-
----
-
-## Learning Goals
-
-This project helped practice:
-
-- Layout building
-- Flexbox alignment
-- CSS Grid
-- Section structuring
-- Spacing & typography
-- Real-world landing page replication
-
----
-
-## Future Improvements
-
-- Add mobile responsiveness
-- Add animations
-- Add JavaScript interactivity
-- Add theme toggle
-- Optimize layout for smaller screens
+Use VS Code Live Server:
+Right click → Open with Live Server
 
 ---
 
@@ -144,10 +98,10 @@ This project helped practice:
 Built for:
 ChaiCode Cohort 2026 – HTML & CSS Peer Review
 
-Feedback welcome on layout, styling, and code structure.
+This project focuses on improving frontend fundamentals and recreating real-world UI layouts.
 
 ---
 
 ## Screenshot
-<img width="1710" height="1032" alt="Screenshot 2026-02-07 at 10 45 06 AM" src="https://github.com/user-attachments/assets/994718ac-3047-48cc-b61d-f4a69eaae7e4" />
+<img width="1710" height="1032" alt="Screenshot 2026-02-07 at 10 45 06 AM" src="https://github.com/user-attachments/assets/6f55f3fd-3495-470e-81f4-7e651138c073" />
 
