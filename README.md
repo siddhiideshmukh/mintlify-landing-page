@@ -149,4 +149,5 @@ Feedback welcome on layout, styling, and code structure.
 ---
 
 ## Screenshot
-<img width="1710" height="1032" alt="Screenshot 2026-02-07 at 10 45 41 AM" src="https://github.com/user-attachments/assets/ff7e2c70-b43e-49d5-b772-e029f11fca8f" />
+<img width="1710" height="1032" alt="Screenshot 2026-02-07 at 10 45 06 AM" src="https://github.com/user-attachments/assets/994718ac-3047-48cc-b61d-f4a69eaae7e4" />
+
