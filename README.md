@@ -1,4 +1,4 @@
-<img width="1710" height="1032" alt="Screenshot 2026-02-07 at 10 45 41 AM" src="https://github.com/user-attachments/assets/564cbf86-ee0c-4bed-86d5-02987bc8af68" /># Cursor Landing Page
+# Cursor Landing Page
 
 Frontend landing page clone inspired by Cursor.
 
